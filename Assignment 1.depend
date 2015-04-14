@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1428978707 source:c:\users\haitn\documents\cs 331 - artificial intelligence\assignment 1\main.cpp
+	<ClosedList.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<queue>
+	<deque>
+	<string>
+	<set>
+
+1428978861 c:\users\haitn\documents\cs 331 - artificial intelligence\assignment 1\include\closedlist.h
+
+1428978810 source:c:\users\haitn\documents\cs 331 - artificial intelligence\assignment 1\src\closedlist.cpp
+	"ClosedList.h"
+
+1428979643 source:c:\users\haitn\documents\cs 331 - artificial intelligence\assignment 1\src\camefrom.cpp
+	"CameFrom.h"
+
+1428979593 c:\users\haitn\documents\cs 331 - artificial intelligence\assignment 1\include\camefrom.h
+	"ClosedList.h"
+	<cstdlib>
+
